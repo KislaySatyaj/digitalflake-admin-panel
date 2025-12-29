@@ -57,22 +57,23 @@ The application provides a secure admin interface to manage **Categories, Subcat
 
 ###  Follow it step by step
 ```bash
-## Clone the Repository
+1️⃣ Clone the Repository:
 git clone https://github.com/KislaySatyaj/digitalflake-admin-panel.git
 cd digitalflake-admin-panel
 
 
 ---
 
-## ⚙️ Backend Setup
+2️⃣ Backend Setup
 
-### 1️⃣ Navigate to Backend Folder
+Navigate to Backend Folder:
 cd backend
 
-nstall Dependencies
+install Dependencies:
 npm install
 
-3️⃣ Create Environment Variables
+2️⃣.1️⃣ Backend Setup
+ Create Environment Variables
 
 Create a .env file inside the backend folder and add the following:
 
@@ -81,33 +82,29 @@ MONGO_URI=mongodb://localhost:27017/digitalflake
 JWT_SECRET=your_jwt_secret_key
 
 
-⚠️ Do not commit the .env file to GitHub.
-
-4️⃣ Start Backend Server
+2️⃣.2️⃣ Start Backend Server
 npm run dev
 
-
 Backend will run on:
-
 http://localhost:5000
 
-🎨 Frontend Setup
-1️⃣ Navigate to Frontend Folder
+3️⃣ Frontend Setup
+
+3️⃣.1️⃣ Navigate to Frontend Folder
 cd frontend
 
-2️⃣ Install Dependencies
+3️⃣.2️⃣ Install Dependencies
 npm install
 
-3️⃣ Start Frontend Server
+3️⃣.3️⃣ Start Frontend Server
 npm run dev
 
 
 Frontend will run on:
-
 http://localhost:5173
 
-🔑 Default Admin Credentials (Local Testing)
 
+🔑 Default Admin Credentials (Local Testing)
 Use the following credentials to log in:
 
 Email: admin@digitalflake.com
