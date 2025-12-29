@@ -50,5 +50,25 @@ The application provides a secure admin interface to manage **Categories, Subcat
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/KislaySatyaj/digitalflake-admin-panel.git
+cd digitalflake-admin-panel
+
+
+---
+
+## ⚙️ Backend Setup
+
+### 1️⃣ Navigate to Backend Folder
+```bash
+cd backend
+
+
+
 
