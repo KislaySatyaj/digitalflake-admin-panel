@@ -5,11 +5,6 @@ The application provides a secure admin interface to manage **Categories, Subcat
 
 ---
 
-## 🔗 Live Project
-*(Optional – add later if deployed)*
-
----
-
 ## 🧰 Tech Stack
 
 ### Frontend
