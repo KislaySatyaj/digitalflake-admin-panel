@@ -88,6 +88,8 @@ npm run dev
 Backend will run on:
 http://localhost:5000
 
+---
+
 3️⃣ Frontend Setup
 
 3️⃣.1️⃣ Navigate to Frontend Folder
@@ -102,6 +104,8 @@ npm run dev
 
 Frontend will run on:
 http://localhost:5173
+
+---
 
 
 🔑 Default Admin Credentials (Local Testing)
